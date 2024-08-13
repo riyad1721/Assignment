@@ -1,5 +1,5 @@
 # Instruction about this repository
-### Folder Stucture are 
+### Folder Structure are 
 - Codebase -(where i am provide two script for training and evaluation , one is load_and_prepossesing module, and model deployment script)
 - Performance Metrics - (where i am provide pdf file for a report of the model’s performance on the test set, including accuracy,precision, recall, and F1 score.)
 - Explanation Document - (where a i am provide a .ipynb for code explaination and one pdf file)
