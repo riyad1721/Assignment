@@ -1,9 +1,9 @@
 # Instruction about this repository
-### Foleder Stucture are 
-#### Codebase -(where i am provide two script for training and evaluation , one is load_and_prepossesing module, and model deployment script)
-#### Performance Metrics - (where i am provide pdf file for a report of the model’s performance on the test set, including accuracy,precision, recall, and F1 score.)
-#### Explanation Document - (where a i am provide a .ipynb for code explaination and one pdf file)
-#### Optional Deliverables - (here one fast api deploment (note: this also available on codebase folder) and docker file  )
+### Folder Stucture are 
+- Codebase -(where i am provide two script for training and evaluation , one is load_and_prepossesing module, and model deployment script)
+- Performance Metrics - (where i am provide pdf file for a report of the model’s performance on the test set, including accuracy,precision, recall, and F1 score.)
+- Explanation Document - (where a i am provide a .ipynb for code explaination and one pdf file)
+- Optional Deliverables - (here one fast api deploment (note: this also available on codebase folder) and docker file  )
 ## Setup Instructions:
 - Clone the repository: git clone <repository-url>
 - Create virtual environment and activate it : python -m venv venv
